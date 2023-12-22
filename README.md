@@ -3,6 +3,7 @@
 A novel multi-scale landslide detection model based on MSFE and Improved Decoupled Head is proposed.
 
 We created a new multi-scale landslide dataset called MSLD, which has 9,623 images and corresponding label files.
+
 Link: https://pan.baidu.com/s/11NEGTPqmA5oX5Zc6M1w1hw
 Code: ycft
 
