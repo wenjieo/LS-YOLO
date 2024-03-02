@@ -6,7 +6,7 @@ We created a new multi-scale landslide dataset called MSLD, which has 9,623 imag
 
 Link: https://pan.baidu.com/s/11NEGTPqmA5oX5Zc6M1w1hw
 
-Code: ycft
+Code: yfct
 
 #Ciation
 
