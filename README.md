@@ -11,4 +11,4 @@ Code: ycft
 #Ciation
 
 If you find our work useful for your research, please consider citing our paper:
-Zhang W., Liu Z., Zhou S., Qi W., Wu X., Zhang T. and Han L. "LS-YOLO: A Novel Model for Detecting Multi-Scale Landslides with Remote Sensing Images". IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (under consideration by IEEE J-STARS)
+Zhang W., Liu Z., Zhou S., Qi W., Wu X., Zhang T. and Han L. "LS-YOLO: A Novel Model for Detecting Multi-Scale Landslides with Remote Sensing Images". IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 17, 4952-4965, 2024.
